@@ -1,0 +1,7 @@
+F:\DropboxECGroupintl\Dropbox\Private\Projects\AssetManagementSystem\AssetManagementSystemDL\bin\Debug\AssetManagementSystemDL.dll
+F:\DropboxECGroupintl\Dropbox\Private\Projects\AssetManagementSystem\AssetManagementSystemDL\bin\Debug\AssetManagementSystemDL.pdb
+F:\DropboxECGroupintl\Dropbox\Private\Projects\AssetManagementSystem\AssetManagementSystemDL\bin\Debug\ApplicationBlockSource.dll
+F:\DropboxECGroupintl\Dropbox\Private\Projects\AssetManagementSystem\AssetManagementSystemDL\bin\Debug\ApplicationBlockSource.pdb
+F:\DropboxECGroupintl\Dropbox\Private\Projects\AssetManagementSystem\AssetManagementSystemDL\obj\Debug\ResolveAssemblyReference.cache
+F:\DropboxECGroupintl\Dropbox\Private\Projects\AssetManagementSystem\AssetManagementSystemDL\obj\Debug\AssetManagementSystemDL.dll
+F:\DropboxECGroupintl\Dropbox\Private\Projects\AssetManagementSystem\AssetManagementSystemDL\obj\Debug\AssetManagementSystemDL.pdb

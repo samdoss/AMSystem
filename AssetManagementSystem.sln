@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetManagementSystem", "AssetManagementSystem\AssetManagementSystem.csproj", "{2CE94DE2-6230-4F6B-91B4-126B7D7D52FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetManagementSystemDL", "AssetManagementSystemDL\AssetManagementSystemDL.csproj", "{8373A225-B0A2-41A4-9F58-4B145EB557C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE94DE2-6230-4F6B-91B4-126B7D7D52FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE94DE2-6230-4F6B-91B4-126B7D7D52FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE94DE2-6230-4F6B-91B4-126B7D7D52FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE94DE2-6230-4F6B-91B4-126B7D7D52FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8373A225-B0A2-41A4-9F58-4B145EB557C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8373A225-B0A2-41A4-9F58-4B145EB557C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8373A225-B0A2-41A4-9F58-4B145EB557C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8373A225-B0A2-41A4-9F58-4B145EB557C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
